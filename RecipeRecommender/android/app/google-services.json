@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "566281682384",
+    "project_id": "cumagecedeneme",
+    "storage_bucket": "cumagecedeneme.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566281682384:android:e5dbed137220da4fb60dd5",
+        "android_client_info": {
+          "package_name": "com.ders.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHhDTPT5Y6l1yie3ZSoQVkAqvIgBG_DCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
